@@ -1,0 +1,7 @@
+﻿  2laba5.cpp
+D:\my projects\2laba5\2laba5\2laba5.cpp(51,24): warning C4473: 'scanf_s' : not enough arguments passed for format string
+D:\my projects\2laba5\2laba5\2laba5.cpp(51,24): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+D:\my projects\2laba5\2laba5\2laba5.cpp(51,24): message : the missing variadic argument 2 is required by format string '%c'
+D:\my projects\2laba5\2laba5\2laba5.cpp(51,24): message : this argument is used as a buffer size
+D:\my projects\2laba5\2laba5\2laba5.cpp(114,13): warning C4101: 'ss': unreferenced local variable
+  2laba5.vcxproj -> D:\my projects\2laba5\Debug\2laba5.exe

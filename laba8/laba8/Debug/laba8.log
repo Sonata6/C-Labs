@@ -1,0 +1,3 @@
+﻿  laba8.cpp
+D:\my projects\laba8\laba8\laba8.cpp(39): warning C4715: 'fun': not all control paths return a value
+  laba8.vcxproj -> D:\my projects\laba8\Debug\laba8.exe

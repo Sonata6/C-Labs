@@ -1,0 +1,6 @@
+﻿1>------ Перестроение всех файлов начато: проект: laba7, Конфигурация: Debug Win32 ------
+1>D:\Новая папка\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(76,5): warning : Отказано в доступе по пути "d:\my projects\laba7\debug\laba7.exe".
+1>laba7.cpp
+1>LINK : fatal error LNK1104: не удается открыть файл "D:\my projects\laba7\Debug\laba7.exe"
+1>Сборка проекта "laba7.vcxproj" завершена с ошибкой.
+========== Перестроение всех проектов: успешно: 0, с ошибками: 1, пропущено: 0 ==========
