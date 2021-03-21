@@ -1,1 +1,1 @@
-This folder contains some simple C-language programms
+This repository contains some simple C-language programms of the OAiP course
